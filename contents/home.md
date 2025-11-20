@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![LiuYuCheng-2006](https://img.shields.io/badge/LiuYuCheng-2006-github-blue?logo=github)](https://github.com/LiuYuCheng-2006)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm currently a student at MPU.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: RyanMPU@outlook.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Year
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Year1
+
+#### Major
+
+Computer Science and Technology
+
+
 
