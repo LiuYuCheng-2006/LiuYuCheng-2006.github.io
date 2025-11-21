@@ -1,6 +1,6 @@
 
 
-[![LiuYuCheng-2006](https://img.shields.io/badge/LiuYuCheng-2006-github-blue?logo=github)](https://github.com/LiuYuCheng-2006)
+[![LiuYuCheng2006](https://img.shields.io/badge/LiuYuCheng2006-github-blue?logo=github)](https://github.com/LiuYuCheng2006)
 
 I'm currently a student at MPU.
 
