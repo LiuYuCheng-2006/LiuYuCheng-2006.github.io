@@ -16,5 +16,11 @@ Year1
 
 Computer Science and Technology
 
+#### Mastered programming language
 
+Python
+
+#### Technology
+
+Able to create PPTs
 
