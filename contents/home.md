@@ -23,4 +23,3 @@ Python
 #### Technology
 
 Able to create PPTs
-
