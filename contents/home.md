@@ -16,10 +16,7 @@ Year1
 
 Computer Science and Technology
 
-#### Mastered programming language
+#### Skills
 
-Python
+Proficient in Python.Able to create PPTs.
 
-#### Technology
-
-Able to create PPTs
